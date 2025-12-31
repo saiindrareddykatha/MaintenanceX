@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "H+2APL8cSMXUWCWzVm76mLoRIRdx0fzHVPFoI1em8m8=",
+  "Source": "PredictiveMaintenanceScheduler.Api",
+  "BasePath": "_content/PredictiveMaintenanceScheduler.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PredictiveMaintenanceScheduler.Api.props" />
+</Project>

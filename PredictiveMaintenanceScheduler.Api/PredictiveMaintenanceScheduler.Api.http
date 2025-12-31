@@ -1,0 +1,6 @@
+@PredictiveMaintenanceScheduler.Api_HostAddress = http://localhost:5291
+
+GET {{PredictiveMaintenanceScheduler.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
